@@ -1,0 +1,4 @@
+﻿  imagecopy.c
+C:\Users\z004ca6a\source\repos\ImageProcessing1\ImageProcessing1\imagecopy.c(14,8): warning C4013: 'print' undefined; assuming extern returning int
+imagecopy.obj : error LNK2019: unresolved external symbol print referenced in function main
+C:\Users\z004ca6a\source\repos\ImageProcessing1\x64\Debug\ImageProcessing1.exe : fatal error LNK1120: 1 unresolved externals
